@@ -1,5 +1,3 @@
-# 3Dpacking
-
 Packing Module
 ===========================
 
